@@ -1,4 +1,4 @@
-### Olá, eu sou a Rá Cinthia!
+### Olá, eu sou a Radrígyla Fonseca!
 
 <div>
   <a href="https://www.instagram.com/ado_ra_vel/" /><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
